@@ -1,0 +1,5 @@
+{
+  "name": "Santa's Sleigh Royale",
+  "description": "A real-time multiplayer Christmas collection game powered by PeerJS and Gemini. Host a game, invite friends, and compete to collect the most presents while surviving AI-generated chaos events!",
+  "requestFramePermissions": []
+}
